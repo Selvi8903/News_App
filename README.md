@@ -9,4 +9,4 @@
  Managed app flow and navigation using Mobile Navigation components.
 
  **Clone this repository**
- 
+ https://github.com/Selvi8903/News_App.git
